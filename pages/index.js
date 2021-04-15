@@ -37,7 +37,6 @@ export default function Home() {
             <Link href="/ssr">
                 <a>3. Server Side rendering</a>
             </Link>
-
         </Container>
     );
 }
